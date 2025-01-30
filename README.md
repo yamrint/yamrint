@@ -1,16 +1,13 @@
-## Hi there 👋
+# Researcher in MIR 🎵
 
-<!--
-**yamrint/yamrint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'll be a researcher at Yamaha, specializing in MIR.
 
-Here are some ideas to get you started:
+Previously, I completed my Master's in creative informatics at uTokyo, where I explored emotional speech synthesis. My main interests lie in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 **Signal Processnig and Machine Learning for Audio & Speech**
+- 🤖 **AI & Human Sensibility/Emotion**
+- 🎶 **Music Information Retrieval**
+
+## 📫 Contact
+- 📧 [Email](yamrint@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rintaro-yamamoto-8578a7349/)
