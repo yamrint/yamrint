@@ -1,6 +1,6 @@
 # Researcher in MIR 🎵
 
-I'll be a researcher at Yamaha, specializing in MIR.
+I'll be a researcher specializing in MIR.
 
 Previously, I completed my Master's in creative informatics at uTokyo, where I explored emotional speech synthesis. My main interests lie in:
 
